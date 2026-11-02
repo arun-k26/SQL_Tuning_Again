@@ -19,6 +19,6 @@
     Password file           : It contains the password of the admin users like sysdba, sysopr, sysasm
 
     Alert log and Trace log : It stores the log of messages and errors occurs in the database. Trace files stores the error trace information 
-                              of the process. 
+                              of the process. .
 
 */
